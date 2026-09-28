@@ -1,0 +1,6 @@
+
+
+> cd backend
+
+uvicorn main:app --reloadcd
+> 

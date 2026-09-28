@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+requests
+python-dotenv
+faiss-cpu 
+sentence-transformers
+pypdf
+python-jose
+passlib[bcrypt]
+python-multipart
